@@ -2,7 +2,7 @@
 
 ## LINK :
 https://app.powerbi.com/reportEmbed?reportId=5c68ce6c-18b7-415c-b210-1b8da64d9694&autoAuth=true&ctid=74ce676a-aa6e-41c1-bc31-f80e23d060ce
-
+ 
 ## OUTPUT :
 
 ![image](https://github.com/pise-anuradha/Bike-Sales-Dashboard-PowerBI/assets/167015021/90929857-0f33-47fa-8a0d-b6a068b2a5f7)
